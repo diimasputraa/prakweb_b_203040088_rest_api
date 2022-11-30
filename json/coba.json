@@ -1,0 +1,31 @@
+[
+    {
+        "nama" : "Dimas",
+        "umur" : 20,
+        "nrp" : "203040088",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "musik"
+        ],
+        "pembimbing" : {
+            "pembimbing1": "James Walker",
+            "pembimbing2": "Steven Carly"
+        }
+    },
+    
+    {
+        "nama" : "Dimas",
+        "umur" : 20,
+        "nrp" : "203040088",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "musik"
+        ],
+        "pembimbing" : {
+            "pembimbing1": "James Walker",
+            "pembimbing2": "Steven Carly"
+        }
+    }
+    ]
